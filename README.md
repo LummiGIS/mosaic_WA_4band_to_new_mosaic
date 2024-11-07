@@ -5,7 +5,7 @@ Participating organization can receive 4-band 6"-imagery for various Washington 
 
 These images are distributed as ~1.5 mile by 2.15 mile TIFF tiles.  While these images can easily be incorporated into an ESRI raster mosaic dataset the raster mosaic dataset is clunky and slow to render even on my GIS specific (and relatively new) computer.  Also, the raster mosaic dataset is not usable in QGIS which offers a more satisfying GIS experience due to its intuitive interface and under-bloated architecture. Furthermore, many of my projects are smaller area projects scattered throughout the Lummi U and A.  A full raster mosaic dataset only complicates and delays GIS project development when only a few mosaic tiles are required for a project.
 
-Individual images tiles can be mosaic'd together using the Esri Mosaic to Raster geoprocessing tool.  This tool does a fine job of mosaicking the raster but you need to either manually enter the tiles into the tool.
+Individual images tiles can be mosaic'd together using the Esri Mosaic to Raster geoprocessing tool.  This tool does a fine job of mosaicking the raster but you need to manually enter the images into the tool.
 
 The distributed imagery also includes an ESRI shapefile of image footprints and these data include the individual time names.
 
