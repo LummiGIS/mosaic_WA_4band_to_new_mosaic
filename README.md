@@ -13,3 +13,5 @@ This mosaic WA 4 Band to new mosaic ArcGIS Pro Scripting tool will take a select
 
 Developed with ArcGIS Pro v3.3 and Wing Pro IDE for Python.
 11/7/2024
+
+I have included an ArcGIS Pro v3.3 toolbox and the code for your consideration.
